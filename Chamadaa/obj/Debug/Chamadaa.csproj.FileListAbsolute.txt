@@ -1,0 +1,12 @@
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\bin\Debug\Chamadaa.exe.config
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\bin\Debug\Chamadaa.exe
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\bin\Debug\Chamadaa.pdb
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\bin\Debug\MySql.Data.dll
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\obj\Debug\Chamadaa.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\obj\Debug\Chamadaa.csproj.GenerateResource.cache
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\obj\Debug\Chamadaa.csproj.CopyComplete
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\obj\Debug\Chamadaa.exe
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\obj\Debug\Chamadaa.pdb
+C:\Users\Guilherme\Desktop\chamada\Chamadaa\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources

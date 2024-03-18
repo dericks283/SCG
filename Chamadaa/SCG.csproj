@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C80B0E1-7507-4CBC-9643-1F278ADAF5DC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Chamadaa</RootNamespace>
+    <AssemblyName>Chamadaa</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>D:\3ºIIEM\Sist\Sistema G.C, U.E.E\Sistema_Controle_Gerenciamento_U.E.E\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conexao\ConectionString.cs" />
+    <Compile Include="DAO\Chamada.cs" />
+    <Compile Include="Model\ModelChamada.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewCadastros\CadAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewCadastros\CadAluno.Designer.cs">
+      <DependentUpon>CadAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewCadastros\CadEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewCadastros\CadEstoque.Designer.cs">
+      <DependentUpon>CadEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewCadastros\CadFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewCadastros\CadFornecedor.Designer.cs">
+      <DependentUpon>CadFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewCadastros\CadProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewCadastros\CadProfessor.Designer.cs">
+      <DependentUpon>CadProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewCadastros\CadTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewCadastros\CadTurma.Designer.cs">
+      <DependentUpon>CadTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\viewChamada\ChamadaAnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\viewChamada\ChamadaAnt.Designer.cs">
+      <DependentUpon>ChamadaAnt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\viewChamada\EditCha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\viewChamada\EditCha.Designer.cs">
+      <DependentUpon>EditCha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewDC\DCAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewDC\DCAluno.Designer.cs">
+      <DependentUpon>DCAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewDC\DCEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewDC\DCEstoque.Designer.cs">
+      <DependentUpon>DCEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewDC\DCFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewDC\DCFornecedor.Designer.cs">
+      <DependentUpon>DCFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewDC\DCProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewDC\DCProfessor.Designer.cs">
+      <DependentUpon>DCProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewDC\DCTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewDC\DCTurma.Designer.cs">
+      <DependentUpon>DCTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewDC\PerfilAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewDC\PerfilAluno.Designer.cs">
+      <DependentUpon>PerfilAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewDC\PerfilProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewDC\PerfilProf.Designer.cs">
+      <DependentUpon>PerfilProf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewEventos\Cadastro_finalistas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewEventos\Cadastro_finalistas.Designer.cs">
+      <DependentUpon>Cadastro_finalistas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewEventos\Camp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewEventos\Camp.Designer.cs">
+      <DependentUpon>Camp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewEventos\CDEventos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewEventos\CDEventos.Designer.cs">
+      <DependentUpon>CDEventos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewEventos\Detalhes_evt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewEventos\Detalhes_evt.Designer.cs">
+      <DependentUpon>Detalhes_evt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewEventos\Form_buscar_porAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewEventos\Form_buscar_porAluno.Designer.cs">
+      <DependentUpon>Form_buscar_porAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewEventos\Form_evt_aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewEventos\Form_evt_aluno.Designer.cs">
+      <DependentUpon>Form_evt_aluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewEventos\Form_notificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewEventos\Form_notificar.Designer.cs">
+      <DependentUpon>Form_notificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewEventos\Tela_evts_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewEventos\Tela_evts_principal.Designer.cs">
+      <DependentUpon>Tela_evts_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\viewChamada\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\viewChamada\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\viewChamada\Modalidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\viewChamada\Modalidade.Designer.cs">
+      <DependentUpon>Modalidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewLogin\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewLogin\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewLogin\Form_trocarNivel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewLogin\Form_trocarNivel.Designer.cs">
+      <DependentUpon>Form_trocarNivel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewLogin\SenhaAdm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewLogin\SenhaAdm1.Designer.cs">
+      <DependentUpon>SenhaAdm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewLogin\SenhaAdm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewLogin\SenhaAdm2.Designer.cs">
+      <DependentUpon>SenhaAdm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewLogin\SenhaAdm3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewLogin\SenhaAdm3.Designer.cs">
+      <DependentUpon>SenhaAdm3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewLogin\TrocarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewLogin\TrocarSenha.Designer.cs">
+      <DependentUpon>TrocarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewMail\Email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewMail\Email.Designer.cs">
+      <DependentUpon>Email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewMail\Email2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewMail\Email2.Designer.cs">
+      <DependentUpon>Email2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewUsuarios\CadUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewUsuarios\CadUsuarios.Designer.cs">
+      <DependentUpon>CadUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\VM\FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\VM\FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\VM\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\VM\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\ViewCadastros\CadAluno.resx">
+      <DependentUpon>CadAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewCadastros\CadEstoque.resx">
+      <DependentUpon>CadEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewCadastros\CadFornecedor.resx">
+      <DependentUpon>CadFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewCadastros\CadProfessor.resx">
+      <DependentUpon>CadProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewCadastros\CadTurma.resx">
+      <DependentUpon>CadTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\viewChamada\ChamadaAnt.resx">
+      <DependentUpon>ChamadaAnt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\viewChamada\EditCha.resx">
+      <DependentUpon>EditCha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewDC\DCAluno.resx">
+      <DependentUpon>DCAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewDC\DCEstoque.resx">
+      <DependentUpon>DCEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewDC\DCFornecedor.resx">
+      <DependentUpon>DCFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewDC\DCProfessor.resx">
+      <DependentUpon>DCProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewDC\DCTurma.resx">
+      <DependentUpon>DCTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewDC\PerfilAluno.resx">
+      <DependentUpon>PerfilAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewDC\PerfilProf.resx">
+      <DependentUpon>PerfilProf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewEventos\Cadastro_finalistas.resx">
+      <DependentUpon>Cadastro_finalistas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewEventos\Camp.resx">
+      <DependentUpon>Camp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\viewChamada\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\viewChamada\Modalidade.resx">
+      <DependentUpon>Modalidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewEventos\CDEventos.resx">
+      <DependentUpon>CDEventos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewEventos\Detalhes_evt.resx">
+      <DependentUpon>Detalhes_evt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewEventos\Form_buscar_porAluno.resx">
+      <DependentUpon>Form_buscar_porAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewEventos\Form_evt_aluno.resx">
+      <DependentUpon>Form_evt_aluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewEventos\Form_notificar.resx">
+      <DependentUpon>Form_notificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewEventos\Tela_evts_principal.resx">
+      <DependentUpon>Tela_evts_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewLogin\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewLogin\Form_trocarNivel.resx">
+      <DependentUpon>Form_trocarNivel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewLogin\SenhaAdm1.resx">
+      <DependentUpon>SenhaAdm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewLogin\SenhaAdm2.resx">
+      <DependentUpon>SenhaAdm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewLogin\SenhaAdm3.resx">
+      <DependentUpon>SenhaAdm3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewLogin\TrocarSenha.resx">
+      <DependentUpon>TrocarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewMail\Email.resx">
+      <DependentUpon>Email.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewMail\Email2.resx">
+      <DependentUpon>Email2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewUsuarios\CadUsuarios.resx">
+      <DependentUpon>CadUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\VM\FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\VM\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scg2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baixo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cima.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modelin_btn_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botão.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo_Notificações_campainha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_btn_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_btn_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_btn_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_btn_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_btn_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo perfis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_carregar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_excluir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_Pesquisar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_inserir_camp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_Entrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_edit_Chamada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_ausente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnAusente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPresente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo_trocar senha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_edit_chamada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo_Notificações.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo cad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo cad_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo cad_Fornecedores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo cad_Estoque.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_Chamada_ant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo cad_Turmas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cad1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo_senhas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo controle_estoque.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo controle_fornecedor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo controle_turmas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_Camp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_finalistas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo_cadUsuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_trocar_senha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_form_notificar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_tela_evt_principal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_sem_fundo_ico.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X_sem_fundo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_detalhes_evt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo_Modalidade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_form_trocar_nivel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo controles.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

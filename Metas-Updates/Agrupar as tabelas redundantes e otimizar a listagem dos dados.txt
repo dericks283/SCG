@@ -1,0 +1,2 @@
+Tabelas separadas para cada campo de texto do painel Campeonato
+Todas as tabelas de modalidades virarem uma unica tabela Turmas, e as anteriores se trasnformarem em colunas da TB_TURMAS

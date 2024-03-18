@@ -1,0 +1,397 @@
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\obj\Debug\SCG.csprojAssemblyReference.cache
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.exe
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.pdb
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\bin\Debug\Chamadaa.exe.config
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\bin\Debug\Chamadaa.exe
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\bin\Debug\Chamadaa.pdb
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+C:\Users\MADRUGA\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Menu.resources
+D:\SCG\Chamadaa\bin\Debug\Chamadaa.exe
+D:\SCG\Chamadaa\bin\Debug\Chamadaa.exe.config
+D:\SCG\Chamadaa\bin\Debug\MySql.Data.dll
+D:\SCG\Chamadaa\obj\Debug\SCG.csprojAssemblyReference.cache
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.ChamadaAnt.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.EditCha.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.FrmMenu.resources
+D:\SCG\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+D:\SCG\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.exe
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.pdb
+D:\SCG\Chamadaa\bin\Debug\Chamadaa.pdb
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.Menu.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadModaAlu.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadProfessor.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadTurma.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCAluno.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.Perfil.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCProfessor.resources
+D:\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilProf.resources
+C:\Users\user\Desktop\SCG\Chamadaa\bin\Debug\Chamadaa.exe.config
+C:\Users\user\Desktop\SCG\Chamadaa\bin\Debug\Chamadaa.exe
+C:\Users\user\Desktop\SCG\Chamadaa\bin\Debug\Chamadaa.pdb
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\SCG.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadModaAlu.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadProfessor.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadTurma.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.ChamadaAnt.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.EditCha.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCAluno.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCProfessor.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilProf.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.FrmMenu.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.Menu.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\SCG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.exe
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.pdb
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCTurma.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilAluno.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadEstoque.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCEstoque.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadFornecedor.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCFornecedor.resources
+C:\Users\user\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\bin\Debug\Chamadaa.exe.config
+C:\Users\user\Desktop\SCG 2\Chamadaa\bin\Debug\Chamadaa.exe
+C:\Users\user\Desktop\SCG 2\Chamadaa\bin\Debug\Chamadaa.pdb
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\SCG.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadModaAlu.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadEstoque.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadFornecedor.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadProfessor.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadTurma.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.ChamadaAnt.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.EditCha.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCAluno.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCEstoque.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCFornecedor.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCProfessor.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCTurma.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilAluno.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilProf.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email2.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.VM.FrmMenu.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.View.VM.Menu.resources
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\SCG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.exe
+C:\Users\user\Desktop\SCG 2\Chamadaa\obj\Debug\Chamadaa.pdb
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csprojAssemblyReference.cache
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadModaAlu.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadEstoque.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadFornecedor.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadProfessor.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadTurma.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.ChamadaAnt.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.EditCha.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCAluno.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCEstoque.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCFornecedor.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCProfessor.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCTurma.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilAluno.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilProf.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Cadastro_finalistas.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email2.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.FrmMenu.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.Menu.resources
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.exe
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.pdb
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.exe.config
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.exe
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.pdb
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\MySql.Data.dll
+D:\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadModaAlu.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadEstoque.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadFornecedor.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadProfessor.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadTurma.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.ChamadaAnt.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.EditCha.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCAluno.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCEstoque.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCFornecedor.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCProfessor.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCTurma.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilAluno.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilProf.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Cadastro_finalistas.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.FormLogin.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email2.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewUsuarios.CadUsuarios.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.FrmMenu.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.Menu.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.exe
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.pdb
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.exe.config
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.exe
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.pdb
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_notificar.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Tela_evts_principal.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm1.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm2.resources
+C:\Users\user\Desktop\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.TrocarSenha.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.exe.config
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.exe
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.pdb
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csprojAssemblyReference.cache
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadEstoque.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadFornecedor.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadProfessor.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadTurma.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.ChamadaAnt.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.EditCha.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCAluno.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCEstoque.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCFornecedor.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCProfessor.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCTurma.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilAluno.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilProf.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Cadastro_finalistas.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_notificar.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Tela_evts_principal.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.FormLogin.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm1.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm2.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.TrocarSenha.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email2.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewUsuarios.CadUsuarios.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.FrmMenu.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.Menu.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.exe
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.pdb
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_buscar_porAluno.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadAlu.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.Form_trocarNivel.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm3.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.CDEventos.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_evt_aluno.resources
+C:\Users\user\Desktop\k\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Detalhes_evt.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.exe.config
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.exe
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\bin\Debug\Chamadaa.pdb
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.AssemblyReference.cache
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.SuggestedBindingRedirects.cache
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadAlu.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadEstoque.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadFornecedor.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadProfessor.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadTurma.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.ChamadaAnt.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.EditCha.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCAluno.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCEstoque.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCFornecedor.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCProfessor.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCTurma.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilAluno.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilProf.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Cadastro_finalistas.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.CDEventos.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Detalhes_evt.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_buscar_porAluno.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_evt_aluno.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_notificar.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Tela_evts_principal.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.FormLogin.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.Form_trocarNivel.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm1.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm2.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm3.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.TrocarSenha.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email2.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewUsuarios.CadUsuarios.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.FrmMenu.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.Menu.resources
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.CoreCompileInputs.cache
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.exe
+D:\SCG (Funcionando 2020)\PROJETO PRINCIPAL\SCG\Chamadaa\obj\Debug\Chamadaa.pdb
+C:\Users\Usuario\Desktop\SCG\Chamadaa\bin\Debug\Chamadaa.exe.config
+C:\Users\Usuario\Desktop\SCG\Chamadaa\bin\Debug\Chamadaa.exe
+C:\Users\Usuario\Desktop\SCG\Chamadaa\bin\Debug\Chamadaa.pdb
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\SCG.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\SCG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadAlu.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadEstoque.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadFornecedor.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadProfessor.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadTurma.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.ChamadaAnt.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.EditCha.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCAluno.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCEstoque.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCFornecedor.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCProfessor.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCTurma.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilAluno.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilProf.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Cadastro_finalistas.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.CDEventos.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Detalhes_evt.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_buscar_porAluno.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_evt_aluno.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_notificar.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Tela_evts_principal.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.FormLogin.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.Form_trocarNivel.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm1.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm2.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm3.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.TrocarSenha.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email2.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewUsuarios.CadUsuarios.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.FrmMenu.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.Menu.resources
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\SCG.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.exe
+C:\Users\Usuario\Desktop\SCG\Chamadaa\obj\Debug\Chamadaa.pdb
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\bin\Debug\Chamadaa.exe.config
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\bin\Debug\Chamadaa.exe
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\bin\Debug\Chamadaa.pdb
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\SCG.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\SCG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadAlu.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadEstoque.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadFornecedor.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadProfessor.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadTurma.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.ChamadaAnt.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.EditCha.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCAluno.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCEstoque.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCFornecedor.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCProfessor.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCTurma.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilAluno.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilProf.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Cadastro_finalistas.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.CDEventos.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Detalhes_evt.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_buscar_porAluno.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_evt_aluno.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_notificar.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Tela_evts_principal.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.FormLogin.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.Form_trocarNivel.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm1.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm2.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm3.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.TrocarSenha.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email2.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewUsuarios.CadUsuarios.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.FrmMenu.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.Menu.resources
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\SCG.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.exe
+C:\Users\Usuario\Desktop\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.pdb
+D:\Backup 09032024\Projeto\SCG\Chamadaa\bin\Debug\Chamadaa.exe.config
+D:\Backup 09032024\Projeto\SCG\Chamadaa\bin\Debug\Chamadaa.exe
+D:\Backup 09032024\Projeto\SCG\Chamadaa\bin\Debug\Chamadaa.pdb
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\SCG.csproj.AssemblyReference.cache
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\SCG.csproj.SuggestedBindingRedirects.cache
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadAlu.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadEstoque.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadFornecedor.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadProfessor.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewCadastros.CadTurma.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.ChamadaAnt.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.EditCha.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCAluno.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCEstoque.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCFornecedor.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCProfessor.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.DCTurma.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilAluno.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewDC.PerfilProf.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Cadastro_finalistas.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.TE_Principal.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.Form1.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.Properties.Resources.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.viewChamada.Modalidade.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.CDEventos.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Detalhes_evt.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_buscar_porAluno.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_evt_aluno.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewEventos.Form_notificar.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.View_Eventos.Tela_evts_principal.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.FormLogin.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.Form_trocarNivel.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm1.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm2.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.SenhaAdm3.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewLogin.TrocarSenha.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewMail.Email2.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.ViewUsuarios.CadUsuarios.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.FrmMenu.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.View.VM.Menu.resources
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\SCG.csproj.GenerateResource.cache
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\SCG.csproj.CoreCompileInputs.cache
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\SCG.csproj.CopyComplete
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.exe
+D:\Backup 09032024\Projeto\SCG\Chamadaa\obj\Debug\Chamadaa.pdb
